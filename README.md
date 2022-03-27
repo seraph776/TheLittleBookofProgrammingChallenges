@@ -7,7 +7,7 @@ This repository is a collection of my code solutions to challenges found in _The
 # Contact
 If you have any questions or wish to collaborate please contact me
 
-- Seraph : seraph1001100@gmail.com
+- Seraph : seraph776@gmail.com
 
 
 # License
